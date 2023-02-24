@@ -1,6 +1,6 @@
 # pizza
 
-Un programme qui fait des pizzas !
+Un programme qui fait des magnifiques pizzas !
 
 Pour lancer le programme, faites la commande suivante :
 ````shell script
